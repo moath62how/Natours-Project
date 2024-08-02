@@ -1,0 +1,6 @@
+/.eslintrc.json
+/.parcel-cache
+/.prettierrc
+/.vscode
+/config.env
+/node_modules
